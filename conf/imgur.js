@@ -1,0 +1,1 @@
+var IMGUR_CLIENT_ID = '58157d9613eb08a';

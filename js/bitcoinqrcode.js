@@ -79,7 +79,7 @@
 
 			context.imageSmoothingEnabled = false;
 			context.mozImageSmoothingEnabled = false;
-			context.webkitImageSmoothingEnabled = false;
+			context.ImageSmoothingEnabled = false;
 
 			context.drawImage(qrcode, offset, offset, size, size);
 
